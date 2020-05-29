@@ -1,1 +1,1 @@
-This is a serverless framwork deoplyment using terraform 
+This is a serverless framwork deployment using terraform 
